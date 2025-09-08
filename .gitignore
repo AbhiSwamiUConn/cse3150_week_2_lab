@@ -1,0 +1,61 @@
+# Compiled object files
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Compiled Static libraries
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+*.elf
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# CMake and build system files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Qt Creator build files
+*.pro.user
+*.qmake.stash
+
+# Visual Studio files
+*.VC.db
+*.VC.opendb
+
+# CodeBlocks files
+*.depend
+*.layout
+
+# Xcode files
+*.xcworkspace
+*.xcuserstate
+*.xcuserdata/
+
+# Other generated files
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Backup files
+*~
